@@ -1,0 +1,30 @@
+
+# /
+/*.idea
+/*.iml
+/*.tmp
+/build
+/forge.log
+/forge.preferences
+/release.properties
+/target
+/test-output
+
+# /.settings/
+/.settings/org.eclipse.core.resources.prefs
+
+# /res/
+/res/setInfoScript.log
+/res/reprintSetInfo.log
+/res/PerSetTrackingResults
+
+# /res/cardsfolder/
+/res/cardsfolder/cardsfolder.zip
+
+# /res/gui/
+/res/gui/display_new_layout.xml
+
+# /res/quest/
+/res/quest/questData.dat
+
+# /src/main/java/forge/card/cost/
