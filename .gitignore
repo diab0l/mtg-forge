@@ -9,6 +9,7 @@
 /release.properties
 /target
 /test-output
+/.DS_Store
 
 # /.settings/
 /.settings/org.eclipse.core.resources.prefs
