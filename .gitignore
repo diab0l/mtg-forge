@@ -18,6 +18,8 @@
 /res/setInfoScript.log
 /res/reprintSetInfo.log
 /res/PerSetTrackingResults
+/res/.DS_Store
+/res/oracleScript.log
 
 # /res/cardsfolder/
 /res/cardsfolder/cardsfolder.zip
@@ -29,3 +31,7 @@
 /res/quest/questData.dat
 
 # /src/main/java/forge/card/cost/
+
+# /src/
+/src/.DS_Store
+/src/main/.DS_Store
