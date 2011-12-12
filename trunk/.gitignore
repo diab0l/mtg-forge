@@ -39,3 +39,10 @@
 /src/main/java/forge/.DS_Store
 /src/main/java/forge/gui/.DS_Store
 /src/main/.DS_Store
+
+# /src/test/
+/src/test/.DS_Store
+/src/test/java/.DS_Store
+/src/test/java/forge/.DS_Store
+/src/test/java/forge/card/.DS_Store
+/src/test/java/forge/card/mana/.DS_Store
