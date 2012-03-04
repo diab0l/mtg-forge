@@ -3,13 +3,15 @@
 /*.idea
 /*.iml
 /*.tmp
+/*.tmp
 /build
-/forge.log
+forge.log
 /forge.preferences
 /release.properties
 /target
 /test-output
 /.DS_Store
+.directory
 
 # /.settings/
 /.settings/org.eclipse.core.resources.prefs
@@ -28,8 +30,13 @@
 # /res/gui/
 /res/gui/display_new_layout.xml
 
+/res/images/icons/
+
 # /res/quest/
+/res/quest/data
+/res/quest/quest.preferences
 /res/quest/questData.dat
+
 
 # /src/main/java/forge/card/cost/
 
