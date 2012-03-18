@@ -37,6 +37,8 @@ forge.log
 /res/quest/quest.preferences
 /res/quest/questData.dat
 
+# /res/pics_product
+/res/pics_product
 
 # /src/main/java/forge/card/cost/
 
