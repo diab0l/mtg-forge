@@ -22,6 +22,7 @@ forge.log
 /res/reprintSetInfo.log
 /res/PerSetTrackingResults
 /res/.DS_Store
+/res/skins/.DS_Store
 /res/oracleScript.log
 
 # /res/cardsfolder/
